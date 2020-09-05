@@ -5,11 +5,6 @@ Template Name: Pages
 
 
 <?php get_header(); ?>
-<!---->
-
-
-
-
 
 <?php if( have_rows('page_content') ):
                 // loop through the rows of data
