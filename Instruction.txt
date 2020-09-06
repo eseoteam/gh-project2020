@@ -1,1 +1,2 @@
 Responsive version is not yet finished.
+Also, breakpoints ar enot still defined.
