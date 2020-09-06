@@ -11,7 +11,7 @@
 	<div class="container">	
 		<div class="row justify-content-between">
 		    <div class="col-12">
-			    <h2>Footer</h2>
+			    <h2>Footer Section</h2>
 
 			</div>		
 		</div>
