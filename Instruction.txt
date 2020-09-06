@@ -1,2 +1,2 @@
-Responsive version is not yet finished.
-Resolve checkout branch file. Test
+
+TEST FINAL !
